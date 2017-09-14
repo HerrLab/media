@@ -26,6 +26,7 @@ BBM: to make 1 L of media:
 5.	If making solid media add 15g of agar to the media
 6.	Autoclave on P1 (less time liquid autoclave setting)
 EBBM:
+
 Do the same steps as above and:
 1.	Add 30 mL of solution #4 instead of 10 mL
 2.	Add 1 mL of Trace elements to the flask
