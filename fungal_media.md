@@ -149,3 +149,45 @@ For isolation of wood decay fungi
 Autoclave, and cool to pouring temperature. After autoclaving, just before pouring add:
 Benlate (10 mg/L) as 1mL of a 10 mg/mL stock suspension
 (0.200g Benlate in 20mL 70% EtOH stock solution)
+
+
+Vitamin Mix:	To 100 mL of ddH2O, add 10 mg of each of the following:
+		Biotin
+		Pyridoxin
+		Thiamine
+		Riboflavin
+		P-aminobenzoic acid (PABA)
+		Nicotinic acid
+Store in the dark (wrapped in aluminum foil) at 4°C
+
+Trace Elements: To 80 mL of ddH2O, add these components in order:
+		ZnSO4 – 7H2O		2.2 g
+		H3BO3			1.1 g
+		MnCl2 – 4H2O		0.5 g
+		FeSO4 – 7H2O		0.5 g
+		CoCL2 – 6H2O		0.17 g
+		CuSO4 – 5H2O		0.16 g
+		Na2MoO4 – 2H2O	0.15 g
+		EDTA (Na4)		5.0 g
+	Boil; cool to 60° C; adjust pH to 6.5; bring up to 100 mL with ddH2O
+		Or Autoclave for 20 mins?
+
+MAG: 		Malt Extract Agar (1 L)
+		To 960 mL of ddH2O add:
+		Dextrose 	20 g
+		Malt Extract	20 g
+		Peptone	2 g
+		Vitamin mix	1 mL
+		Trace elements	1 mL
+		Add 15 g of agar for solid media
+	Autoclave on P2, or the second longest liquid autoclave time (30 mins vacuum)
+	* For MEA, leave out the vitamin mix and the trace elements*	
+
+YPD:	Yeast Peptone Dextrose Agar
+	To 960 mL of ddH2O add:
+	Bacto yeast extract	10 g
+	Bacto Peptone		20 g
+	Dextrose		20 g
+	Agar (for solid media)	20 g
+	*  It is suggested that when adding dextrose to media that you autoclave the dextrose separately from the media, in this case you would add the 20 g of Dextrose to 50 mL of ddH2O and remove 50 mL of ddH2O to the media recipe. After autoclaving the dextrose and the rest of the media just pour the dextrose into the larger flask*
+
