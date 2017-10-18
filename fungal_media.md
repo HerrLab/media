@@ -1,17 +1,31 @@
-# Media recipes used in the laboratory
+# Fungal Media recipes used in the laboratory
 
-### Hillman Broth Media
+## SOLID MEDIA
 
-Note: Eddie's Media for growing fungi in liquid culture
+### Malt Extract Agar (MEA)
+
+Note: For 1 L of MEA (Gutz and Doe 1973). Sterilize by autoclaving at 10 psi for 30 min. Plates should be stored at 4°C.
 
 | Ingredient | Amount |
 |:----------------:|:-----------------:|
-| yeast extract | 2% |
-| dextrose | 5% |
-| sucrose | 10% |
-| malt | 4% |
-| tap water | 1 Liter |
+| malt extract | 30 grams |
+| agar | 20 grams |
+| distilled water | 1 Liter |
 
+### Malt Extract Agar + chloramphenicol
+
+For general isolation of fungi (standard medium for isolating fungi from leaves)
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| Malt Extract | 20 grams |
+| Agar | 15 grams |
+| chloramphenicol | 0.200 grams |
+| deionized water | 1 Liter |
+
+1. Add all ingredients into water, mix, and heat gently to dissolve.
+2. Autoclave. Chloramphenicol can be autoclaved.
+3. Cool and pour plates.
 
 ### Carnation Leaf Agar (CLA)
 
@@ -74,52 +88,6 @@ NOTE:  The residue is difficult to remove once dried onto surfaces!
 13. Cool in a water bath to ~50°C.
 14. Pour ~30 mL per plate.
 
-### Mung Bean Broth (MBB)
-
-Good for _Fusarium_ spore production in liquid culture.
-
-| Ingredient | Amount |
-|:----------------:|:-----------------:|
-| | |
-
-1.  Bring 1 L distilled H2O to a boil.
-2.  Remove from heat and allow to sit 30 seconds.
-3.  Add 40 g of mung beans and allow to steep 10 minutes.
-4.  Fix a Buchner funnel to a 2 L flask and cover the holes with cheesecloth.  Filter the beans from the broth.
-5.  Divide the broth as needed into flasks and put a sponge cork in the top.
-6.  Autoclave 20 minutes on the fluid setting.
-7.  Allow broth to cool overnight before inoculating.
-
-### Malt Extract Agar + chloramphenicol
-
-For general isolation of fungi (standard medium for isolating fungi from leaves)
-
-| Ingredient | Amount |
-|:----------------:|:-----------------:|
-| Malt Extract | 20 grams |
-| Agar | 15 grams |
-| chloramphenicol | 0.200 grams |
-| deionized water | 1 Liter |
-
-1. Add all ingredients into water, mix, and heat gently to dissolve.
-2. Autoclave. Chloramphenicol can be autoclaved.
-3. Cool and pour plates.
-
-### 10% Trypticase Soy Agar + cycloheximide
-
-for general isolation of bacteria (standard medium for bacterial isolation from plants)
-
-| Ingredient | Amount |
-|:----------------:|:-----------------:|
-| | |
-
-3g Trypticase Soy Broth
-15 g Agar
-1 L deionized water Mix and heat to dissolve all ingredients.
-Autoclave, and cool to pouring temperature. Before pouring add:
-Cycloheximide (200 mg/L) as
-10mL of a 1g/50mL 90% EtOH stock solution.
-
 ### V8 Juice Agar
 
 Used for sporulation of some fungi and oomycetes
@@ -150,8 +118,65 @@ Autoclave, and cool to pouring temperature. After autoclaving, just before pouri
 Benlate (10 mg/L) as 1mL of a 10 mg/mL stock suspension
 (0.200g Benlate in 20mL 70% EtOH stock solution)
 
+### MAG
 
-Vitamin Mix:	To 100 mL of ddH2O, add 10 mg of each of the following:
+Malt Extract Agar (1 L)
+		To 960 mL of ddH2O add:
+		Dextrose 	20 g
+		Malt Extract	20 g
+		Peptone	2 g
+		Vitamin mix	1 mL
+		Trace elements	1 mL
+		Add 15 g of agar for solid media
+	Autoclave on P2, or the second longest liquid autoclave time (30 mins vacuum)
+	* For MEA, leave out the vitamin mix and the trace elements *
+
+### YPD
+
+Yeast Peptone Dextrose Agar
+	To 960 mL of ddH2O add:
+	Bacto yeast extract	10 g
+	Bacto Peptone		20 g
+	Dextrose		20 g
+	Agar (for solid media)	20 g
+	*  It is suggested that when adding dextrose to media that you autoclave the dextrose separately from the media, in this case you would add the 20 g of Dextrose to 50 mL of ddH2O and remove 50 mL of ddH2O to the media recipe. After autoclaving the dextrose and the rest of the media just pour the dextrose into the larger flask*
+
+
+## LIQUID MEDIA
+
+### Hillman Broth Media
+
+Note: Eddie's Media for growing fungi in liquid culture
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| yeast extract | 2% |
+| dextrose | 5% |
+| sucrose | 10% |
+| malt | 4% |
+| distilled water | 1 Liter |
+
+### Mung Bean Broth (MBB)
+
+Good for _Fusarium_ spore production in liquid culture.
+
+| Ingredient | Amount |
+|:----------------:|:-----------------:|
+| | |
+
+1.  Bring 1 L distilled H2O to a boil.
+2.  Remove from heat and allow to sit 30 seconds.
+3.  Add 40 g of mung beans and allow to steep 10 minutes.
+4.  Fix a Buchner funnel to a 2 L flask and cover the holes with cheesecloth.  Filter the beans from the broth.
+5.  Divide the broth as needed into flasks and put a sponge cork in the top.
+6.  Autoclave 20 minutes on the fluid setting.
+7.  Allow broth to cool overnight before inoculating.
+
+## VITAMINS & TRACE ELEMENT ADDITIONS
+
+### Vitamin Mix
+
+To 100 mL of ddH2O, add 10 mg of each of the following:
 		Biotin
 		Pyridoxin
 		Thiamine
@@ -160,7 +185,8 @@ Vitamin Mix:	To 100 mL of ddH2O, add 10 mg of each of the following:
 		Nicotinic acid
 Store in the dark (wrapped in aluminum foil) at 4°C
 
-Trace Elements: To 80 mL of ddH2O, add these components in order:
+### Trace Elements
+To 80 mL of ddH2O, add these components in order:
 		ZnSO4 – 7H2O		2.2 g
 		H3BO3			1.1 g
 		MnCl2 – 4H2O		0.5 g
@@ -172,22 +198,4 @@ Trace Elements: To 80 mL of ddH2O, add these components in order:
 	Boil; cool to 60° C; adjust pH to 6.5; bring up to 100 mL with ddH2O
 		Or Autoclave for 20 mins?
 
-MAG: 		Malt Extract Agar (1 L)
-		To 960 mL of ddH2O add:
-		Dextrose 	20 g
-		Malt Extract	20 g
-		Peptone	2 g
-		Vitamin mix	1 mL
-		Trace elements	1 mL
-		Add 15 g of agar for solid media
-	Autoclave on P2, or the second longest liquid autoclave time (30 mins vacuum)
-	* For MEA, leave out the vitamin mix and the trace elements*	
-
-YPD:	Yeast Peptone Dextrose Agar
-	To 960 mL of ddH2O add:
-	Bacto yeast extract	10 g
-	Bacto Peptone		20 g
-	Dextrose		20 g
-	Agar (for solid media)	20 g
-	*  It is suggested that when adding dextrose to media that you autoclave the dextrose separately from the media, in this case you would add the 20 g of Dextrose to 50 mL of ddH2O and remove 50 mL of ddH2O to the media recipe. After autoclaving the dextrose and the rest of the media just pour the dextrose into the larger flask*
 
